@@ -1,0 +1,152 @@
+body{
+	background-image: url("https://trello-backgrounds.s3.amazonaws.com/53baf533e697a982248cd73f/4200x4200/48dbf0b5a546541e847e267a5dcd2201/shutterstock_134707556.jpg");
+	background: cover;
+	position: relative;
+}
+
+h5 {
+    color: #4d4d4d;
+    font: 18px "Helvetica Neue",Arial,Helvetica,sans-serif;
+}
+
+#header {
+    background: #efe3c3;
+    border-bottom: 1px solid #e7d6a7;
+    height: 50px;
+
+}
+
+
+
+
+#image {
+    height: 245px;
+    width: 230px;
+    border-radius: 5px; 
+}
+
+ 
+#col1{ background-color: #cccccc; 
+	   border-radius: 5px; 
+	   width: 250px; 
+	   height: 370px; 
+	   margin-right: 20px;
+       margin-left: 15px;
+       
+       
+       
+   }
+
+
+#col2{ background-color: #cccccc; 
+	   border-radius: 5px; 
+	   width: 250px; 
+	   height: 500px; 
+	   margin-right: 20px;
+    } 
+
+
+#col3{ background-color: #cccccc; 
+	   border-radius: 5px; 
+	   width: 270px; 
+	   height: 200px; 
+	   margin-right: 20px;
+       
+    }
+
+#col4{
+       background-color: white  ; 
+       border-radius: 5px; 
+       width: 400px; 
+       height: 400px; 
+       margin-right: 30px;
+       float: right;
+       margin-top: -550px;
+       height: 500px;
+
+}
+
+#home{ 
+    background: 0 0;
+    border-radius: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+}
+
+#tour { 
+    background: 0 0;
+    border-radius: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+}
+
+#blog { 
+    background: 0 0;
+    border-radius: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+}   
+
+#signUp {
+	color: white;
+    display: block;
+    font-weight: 700;
+    line-height: 20px;
+    margin-left: 105px;
+    margin-right: 8px;
+    min-width: 80px;
+    background: #61bd4f;
+    float:left;
+    margin: top;
+    border: none;
+
+
+}
+
+#logIn {
+	color: white;
+    display: block;
+    font-weight: 700;
+    line-height: 20px;
+    margin-right: 8px;
+    min-width: 80px;
+    float: left;
+    margin: top;
+    border: none;
+}
+
+#list1 {
+    color: #4d4d4d;
+    background:white;
+    border-radius: 3px;
+    margin-bottom: 10px;       
+    width: 230px;
+    float: right;
+}
+
+
+
+
+#list2 {
+    
+    background:white;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    height: 32px;
+    width: 230px;
+    float: right;
+}	
+
+
+#list3 {
+    color: #4d4d4d;
+    background:white;
+    border-radius: 3px;
+    margin-bottom: 10px;       
+    width: 250px;
+    float: right;
+}
+
