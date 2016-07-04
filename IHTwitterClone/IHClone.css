@@ -1,0 +1,139 @@
+
+nav {
+	background-color: white;
+
+}
+
+img {
+	display: block;
+    position: absolute;
+    height: 70%;
+    width: 100%;
+   margin-bottom: -200px;
+    
+}
+
+p {
+	text-indent: 60px;
+	color: black;
+}
+
+#header {
+    background: white;
+    border-bottom: 1px solid grey;
+    height: 60px;
+	margin-top: 450px;
+	display: block;
+	border: none;
+}
+
+
+#pic {
+	width: 200px;
+	height: 200px;
+	border-radius: 8px;
+	margin-left: 70px;
+	margin-top: -200px;
+	box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+}
+
+#IHname {
+	font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    word-wrap: break-word;
+    color: black;
+    margin-left: 60px;
+}
+
+#AtIH {
+	color:#8899a6;
+	margin-left: 50px;
+
+}
+
+#button1.hover {
+	background-color: transparent;
+	color: #66757f;
+	font-size: 15px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#button2{
+	margin-left: 300px;
+	color: #66757f;
+	background-color: transparent;
+	font-size: 18px;
+    padding-top: 3px;
+    font-weight: 500;
+    transition: color .15s ease-in-out;
+}
+#button4{
+	color: #009999;
+	background-color: transparent;
+	font-size: 18px;
+    padding-top: 3px;
+    font-weight: 500;
+    transition: color .15s ease-in-out;
+
+}
+
+
+
+#button3{
+	color: #66757f;
+	background-color: transparent;
+	font-size: 18px;
+    padding-top: 3px;
+    font-weight: 500;
+    transition: color .15s ease-in-out;
+}
+
+
+
+#searchBar{
+	border-radius: 20px;
+    width: 250px;
+    height: 35px;
+    background-color: #f5f8fa;
+    border-width: .1px;
+    line-height: 1;
+    margin-right: 100px;
+    margin-left: 400px;
+    margin-top: 8px;
+}
+
+
+#c1 {
+	background-color: white;
+	width: 350;
+}
+
+#c2 {
+	background-color: #cccccc; 
+	   border-radius: 5px; 
+	   width: 500px; 
+	   height: 500px; 
+	   margin-right: 20px;
+}
+
+#WebsiteTag {
+	margin-left: 60px;
+	color:#009999;
+	font-size: 14px;
+
+}
+
+
+#TweetButton{
+	color: white;
+	background-color: #009999;
+    background: rgba(0,153,153,.8);
+    border: none;
+    border-radius: 4px;
+    padding: 9px 16px 7px 17px;
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    margin-left: 60px;
+
+}
